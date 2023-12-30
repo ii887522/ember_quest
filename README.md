@@ -1,6 +1,6 @@
 # ember_quest
 
-A new Flutter project.
+A simple side-scrolling platformer developed following Flutter Flame tutorials.
 
 ## Getting Started
 
